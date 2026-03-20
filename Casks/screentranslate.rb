@@ -1,6 +1,6 @@
 cask "screentranslate" do
-  version "1.4.3"
-  sha256 "5b4f8fd4783437f6f6e1208eb7fe2ec3c51652a9de06be27f9b2f000e5093ec2"
+  version "1.5.0"
+  sha256 "f3a76773a0a05d8a3d04df35668819ef48b783f156587434b9fba7dcd34cd294"
 
   url "https://github.com/hcmhcs/screenTranslate/releases/download/v#{version}/ScreenTranslate-#{version}.dmg"
   name "ScreenTranslate"
